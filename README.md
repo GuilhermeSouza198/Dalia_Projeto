@@ -2,7 +2,7 @@
     <img src="">
 </p>
 
-<h1>Projeto Integrador Dália Autores</h1>
+<h1>Projeto Integrador Dália</h1>
 
 <p align="center">
 🔎 Este projeto tem como objetivo atender as ODS 3(Saúde e bem estar), 5(Igualdade de gênero), e 16(Paz, justiça e instituições eficazes), sendo um sistema web de calendario menstrual que tem por objetivo ajudar mulheres a realizar denuncias de forma discreta
