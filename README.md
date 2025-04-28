@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/Dalia 2.0.png" alt="Logo" class="LogoDalia">
+    <img src="./img/navbar/Home-full__nav.svg" alt="Logo" >
 </p>
 
 <h1>Projeto Integrador Dália</h1>
