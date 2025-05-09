@@ -48,7 +48,7 @@ Este projeto está alinhado com os seguintes Objetivos de Desenvolvimento Susten
 
 ## 👤 Professor Coordenador
 
-- [@Bruno Zolotareff] (https://github.com/bzsantos)
+- [@Bruno Zolotareff](https://github.com/bzsantos)
 
 ---
 
