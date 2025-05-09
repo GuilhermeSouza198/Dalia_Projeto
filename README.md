@@ -30,7 +30,7 @@ Este projeto está alinhado com os seguintes Objetivos de Desenvolvimento Susten
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
-- **Java + Spring Boot** (backend)
+- **Node.js + Express.js** (backend)
 - **MongoDB** (banco de dados)
 - **HTML, CSS, JavaScript** (frontend)
 
